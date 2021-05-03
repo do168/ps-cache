@@ -3,18 +3,18 @@ A Node.js module that caching with pub/sub when simultaneous-heavy-request situa
 
 ## Installation 
 ```sh
-npm install ps-cache --save
-yarn add ps-cache
-bower install ps-cache --save
+npm install sr-cache --save
+yarn add sr-cache
+bower install sr-cache --save
 ```
 ## Usage
 
 ### Javascript
 ```javascript
-var psCache = require('ps-cache');
+var srCache = require('sr-cache');
 ```
 
 ### TypeScript
 ```typescript
-import psCache from 'ps-cache';
+import srCache from 'sr-cache';
 ```

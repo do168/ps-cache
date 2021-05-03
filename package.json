@@ -1,5 +1,5 @@
 {
-  "name": "srcache",
+  "name": "sr-cache",
   "version": "1.0.0",
   "description": "caching module with pub/sub logic when same heavy request comes simultaneously",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/do168/ps-cache.git"
+    "url": "git+https://github.com/do168/sr-cache.git"
   },
   "author": "WoochanDO",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/do168/ps-cache/issues"
+    "url": "https://github.com/do168/sr-cache/issues"
   },
-  "homepage": "https://github.com/do168/ps-cache#readme",
+  "homepage": "https://github.com/do168/sr-cache#readme",
   "dependencies": {
     "config": "^3.3.6",
     "ioredis": "^4.27.1",
