@@ -1,5 +1,5 @@
 {
-  "name": "ps-cache",
+  "name": "pscache",
   "version": "1.0.0",
   "description": "caching module with pub/sub logic",
   "main": "index.js",
