@@ -1,7 +1,7 @@
 {
-  "name": "pscache",
+  "name": "srcache",
   "version": "1.0.0",
-  "description": "caching module with pub/sub logic",
+  "description": "caching module with pub/sub logic when same heavy request comes simultaneously",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: there's no test specified\" && exit 1",
