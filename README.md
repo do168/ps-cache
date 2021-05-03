@@ -1,4 +1,4 @@
-# ps-cache
+# sr-cache
 A Node.js module that caching with pub/sub when simultaneous-heavy-request situation 
 
 ## Installation 
